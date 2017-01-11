@@ -44,3 +44,9 @@ F:\MVC\Corecsharp2\Corecsharp2\bin\System.Web.Mvc.xml
 F:\MVC\Corecsharp2\Corecsharp2\obj\Debug\Corecsharp2.csprojResolveAssemblyReference.cache
 F:\MVC\Corecsharp2\Corecsharp2\obj\Debug\Corecsharp2.dll
 F:\MVC\Corecsharp2\Corecsharp2\obj\Debug\Corecsharp2.pdb
+F:\MVC\Corecsharp2\Corecsharp2\bin\EntityFramework.dll
+F:\MVC\Corecsharp2\Corecsharp2\bin\EntityFramework.SqlServer.dll
+F:\MVC\Corecsharp2\Corecsharp2\bin\EntityFramework.xml
+F:\MVC\Corecsharp2\Corecsharp2\bin\EntityFramework.SqlServer.xml
+F:\MVC\Corecsharp2\Corecsharp2\obj\Debug\Corecsharp2.Migrations.init.resources
+F:\MVC\Corecsharp2\Corecsharp2\obj\Debug\Corecsharp2.csproj.GenerateResource.Cache
